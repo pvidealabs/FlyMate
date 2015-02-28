@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flymate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="planBtn">Plan</string>
+    <string name="fromLbl">From</string>
+    <string name="toLbl">To</string>
+    <string name="dateLbl">Date</string>
+    <string name="title_activity_plan">Plan</string>
+    <string name="title_activity_assist">Assist</string>
+    <string name="pnrLbl">PNR</string>
+    <string name="country_prompt">Choose a country</string>
+    <string name="dept_city">Choose Departure City</string>
+    <string name="dest_city">Choose Destination City</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="country_arrays">
+        <item>Chennai,India (MAA)</item>
+        <item>Ibiza, Spain (IBZ)</item>
+        <item>Auckland, New Zealand (AKL)</item>
+    </string-array>
+
+    <string name="title_activity_plan_tab">PlanTabActivity</string>
+    <string name="home_btn_lbl">Home</string>
+    <string name="head_text_color">#000000</string>
+
+</resources>

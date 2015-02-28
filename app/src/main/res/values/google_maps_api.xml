@@ -1,0 +1,22 @@
+<resources>
+    <string name="google_maps_key_instructions" templateMergeStrategy="replace"><!--
+
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=D1:3C:15:4C:B2:82:4D:D8:30:E9:86:61:62:CD:3A:54:AA:9D:7E:3E%3Bapp.labs.idea.com.flymate
+
+    You can also add your credentials to an existing key, using this line:
+    D1:3C:15:4C:B2:82:4D:D8:30:E9:86:61:62:CD:3A:54:AA:9D:7E:3E;app.labs.idea.com.flymate
+    BD:FA:CD:4E:D9:F4:5E:D0:F0:A2:2B:8C:48:FC:15:BA:CE:8E:98:51;app.labs.idea.com.flymate
+
+    current
+    D1:3C:15:4C:B2:82:4D:D8:30:E9:86:61:62:CD:3A:54:AA:9D:7E:3E;app.labs.idea.com.flymate
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    --></string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve">AIzaSyBAl1AN-v5NsCLQFvhqOpxXNJbCu_G_GRI</string>
+</resources>
